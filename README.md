@@ -13,7 +13,7 @@ Technical Details:
 
 * API Access: You will get a dedicated API link to easily sync your proxy list with your tools.
 
-* Optimized for Instagram: Perfect for Instagram Checkers, Monitors, and automation bots.
+* Optimized for Instagram: Perfect for Instagram Checkers, Monitors, and autoclaimer tools.
 
 
 Pricing:
