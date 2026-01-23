@@ -14,4 +14,4 @@ Daily plans:
 -
 Contact us if you want weekly plans.
 
-https://t.me/ZettaProxy
+[https://t.me/ZettaProxy]
